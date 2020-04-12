@@ -2,9 +2,8 @@
 
 @import "layouts/navbar";
 
-/* ===ここから追加する=== */
 @import "common";
-@import "users/devise";
-/* ===ここまで追加する=== */
 
+@import "users/devise";
 @import "users/show";
+@import "users/edit";
